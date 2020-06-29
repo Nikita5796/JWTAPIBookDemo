@@ -1,0 +1,11 @@
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\bin\Debug\BookApp.DAL.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\bin\Debug\BookApp.DAL.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\bin\Debug\BookApp.Entities.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\bin\Debug\BookApp.Exceptions.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\bin\Debug\BookApp.Entities.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\bin\Debug\BookApp.Exceptions.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\obj\Debug\BookApp.DAL.csprojAssemblyReference.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\obj\Debug\BookApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\obj\Debug\BookApp.DAL.csproj.CopyComplete
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\obj\Debug\BookApp.DAL.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.DAL\obj\Debug\BookApp.DAL.pdb

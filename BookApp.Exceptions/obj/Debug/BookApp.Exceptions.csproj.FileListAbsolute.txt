@@ -1,0 +1,6 @@
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Exceptions\bin\Debug\BookApp.Exceptions.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Exceptions\bin\Debug\BookApp.Exceptions.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Exceptions\obj\Debug\BookApp.Exceptions.csprojAssemblyReference.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Exceptions\obj\Debug\BookApp.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Exceptions\obj\Debug\BookApp.Exceptions.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Exceptions\obj\Debug\BookApp.Exceptions.pdb

@@ -1,0 +1,13 @@
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.BLL.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.BLL.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.DAL.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.Entities.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.Exceptions.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.DAL.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.Entities.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\bin\Debug\BookApp.Exceptions.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\obj\Debug\BookApp.BLL.csprojAssemblyReference.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\obj\Debug\BookApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\obj\Debug\BookApp.BLL.csproj.CopyComplete
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\obj\Debug\BookApp.BLL.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.BLL\obj\Debug\BookApp.BLL.pdb

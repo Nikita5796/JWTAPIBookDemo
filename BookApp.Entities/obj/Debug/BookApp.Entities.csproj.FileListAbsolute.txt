@@ -1,0 +1,6 @@
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Entities\bin\Debug\BookApp.Entities.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Entities\bin\Debug\BookApp.Entities.pdb
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Entities\obj\Debug\BookApp.Entities.csprojAssemblyReference.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Entities\obj\Debug\BookApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Entities\obj\Debug\BookApp.Entities.dll
+C:\Users\NikitaT\source\repos\DemoBookAppAPI\BookApp.Entities\obj\Debug\BookApp.Entities.pdb
